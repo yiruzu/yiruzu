@@ -3,7 +3,7 @@
 ☁️〢I’m currently working on Cloud7 Roleplay<br>💡〢I’m currently learning LUA, CSS, HTML & JS<br>✅〢I'm a professional skid
 
 
-## 🌐 Socials
+## 🌐 × Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yiruzu7) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zESgmGU) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yiruzu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yiruzu7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yiruzu) 
 
 # 💻 × Tech Stack
