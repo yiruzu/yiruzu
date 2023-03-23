@@ -1,4 +1,4 @@
-![banner](https://cdn.discordapp.com/attachments/595210161530994688/1088540738591129720/image.png)
+![Banner](https://cdn.discordapp.com/attachments/595210161530994688/1088540738591129720/image.png)
 # 💫 × About Me
 ☁️〢I’m currently working on Cloud7 Roleplay<br>💡〢I’m currently learning LUA, CSS, HTML & JS<br>✅〢I'm a professional skid
 
