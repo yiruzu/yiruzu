@@ -1,6 +1,6 @@
 ![Banner](https://cdn.discordapp.com/attachments/595210161530994688/1088540738591129720/image.png)
 # 💫 × About Me
-☁️ Currently working on Cloud7 Roleplay [DISCONTINUED]<br>💡 Learning LUA, CSS, HTML & JS<br>✅ A professional skid
+☁️・Currently Working On Cloud7 Roleplay [DISCONTINUED]<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
 
 
 ## 🌐 × Socials
@@ -9,7 +9,7 @@
 ## 💻 × Tech Stack
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ 
 ## 📊 × GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=yiruzu&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yiruzu&theme=react&hide_border=false)<br/>
