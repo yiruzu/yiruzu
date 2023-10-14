@@ -1,6 +1,6 @@
 ![Banner](https://cdn.discordapp.com/attachments/595210161530994688/1088540738591129720/image.png)
 # 💫 × About Me
-☁️・Currently Working On Cloud7 Roleplay [DISCONTINUED]<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
+☁️・Currently Working On Cloud7<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
 
 
 ## 🌐 × Socials
