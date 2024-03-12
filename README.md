@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/595210161530994688/1088540738591129720/image.png)
+![Banner](https://cdn.discordapp.com/attachments/1085513330237648927/1217151171794309290/image.png?ex=6602fb5c&is=65f0865c&hm=f61fa8b467dd45601dafe96fb5a88d3cb812ca443bb99324216722a9a8f65af1&)
 # 💫 × About Me
 ☁️・Currently Working On FiveM Server<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
 
