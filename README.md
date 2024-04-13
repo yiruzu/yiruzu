@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/1085513330237648927/1217151171794309290/image.png?ex=6602fb5c&is=65f0865c&hm=f61fa8b467dd45601dafe96fb5a88d3cb812ca443bb99324216722a9a8f65af1&)
+![Banner](https://media.discordapp.net/attachments/1085513330237648927/1217151171794309290/image.png?ex=6627e55c&is=6615705c&hm=2d9b66c13ffd62ca9260ecc1f7699d4bbfaeb64ecc9ee2f76e8a1b5bcd2a11da&=&format=webp&quality=lossless&width=1080&height=357)
 # 💫 × About Me
 ☁️・Currently Working On FiveM Server<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
 
