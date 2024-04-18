@@ -1,6 +1,6 @@
 ![Banner](https://media.discordapp.net/attachments/1085513330237648927/1217151171794309290/image.png?ex=6627e55c&is=6615705c&hm=2d9b66c13ffd62ca9260ecc1f7699d4bbfaeb64ecc9ee2f76e8a1b5bcd2a11da&=&format=webp&quality=lossless&width=1080&height=357)
 # 💫 × About Me
-☁️・Currently Working On FiveM Server<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
+☁️・Currently Working On Elysian Roleplay<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
 
 ## 🌐 × Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yiruzu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yiruzu7) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yiruzu) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yiruzu)
