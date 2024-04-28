@@ -1,4 +1,4 @@
-![Banner](https://media.discordapp.net/attachments/1085513330237648927/1217151171794309290/image.png?ex=6627e55c&is=6615705c&hm=2d9b66c13ffd62ca9260ecc1f7699d4bbfaeb64ecc9ee2f76e8a1b5bcd2a11da&=&format=webp&quality=lossless&width=1080&height=357)
+![Banner](https://imgur.com/tU8pf3N)
 # 💫 × About Me
 ☁️・Currently Working On Elysian Roleplay<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
 
