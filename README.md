@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/ad92dxC)
+![Banner](https://imgur.com/H1xVXiG)
 # 💫 × About Me
 ☁️・Currently Working On Elysian Roleplay<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
 
