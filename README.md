@@ -1,5 +1,5 @@
 ![Banner](https://i.imgur.com/H1xVXiG.png)
-# 💫丨About Me
+## 💫丨About Me
 ☁️・Currently Working On FiveM Projects<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
 
 ## 🌐丨Socials
