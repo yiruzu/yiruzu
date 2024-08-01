@@ -2,13 +2,13 @@
 ## ` ☁️ `丨About Me
 🛠️・Currently Working On FiveM Projects<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
 
-## 🌐丨Socials
+## ` 🌐 `丨Socials
 [![Discord](https://i.imgur.com/j9Ucn6P.png)](https://discord.com/) [![YouTube](https://i.imgur.com/jBeMj7a.png)](https://youtube.com/@yiruzu) [![TikTok](https://i.imgur.com/wiYpJrM.png)](https://tiktok.com/@yiruzu) [![Twitter](https://i.imgur.com/NrfB4Fq.png)](https://twitter.com/yiruzu7)
 
-## 💻丨Tech Stack
+## ` 💻 `丨Tech Stack
 ![Lua](https://i.imgur.com/jmbaCec.png) ![Figma](https://i.imgur.com/I2NEgO7.png) ![CSS](https://i.imgur.com/prPZyrS.png) ![HTML](https://i.imgur.com/mPxe5lU.png) ![JavaScript](https://i.imgur.com/BYbFOle.png)
  
-## 📊丨GitHub Stats
+## ` 📊 `丨GitHub Stats
 <p>
   <br/>
     <a href="https://github.com/"><img alt="yiruzu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yiruzu&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" /></a>
