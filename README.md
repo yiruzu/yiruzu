@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/H1xVXiG.png)
+![Banner](https://i.imgur.com/py7BpUp.png)
 ## 💫丨About Me
 ☁️・Currently Working On FiveM Projects<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
 
