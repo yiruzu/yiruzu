@@ -9,9 +9,12 @@
 ![Lua](https://i.imgur.com/jmbaCec.png) ![Figma](https://i.imgur.com/I2NEgO7.png) ![CSS](https://i.imgur.com/prPZyrS.png) ![HTML](https://i.imgur.com/mPxe5lU.png) ![JavaScript](https://i.imgur.com/BYbFOle.png)
  
 ## 📊丨GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yiruzu&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yiruzu&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yiruzu&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <br/>
+    <a href="https://github.com/"><img alt="yiruzu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yiruzu&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" /></a>
+    <a href="https://github.com/"><img alt="yiruzus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiruzu&theme=graywhite&hide_border=true&langs_count=8&include_all_commits=true&count_private=true&layout=compact" /></a>
+  <br/>
+</p>
 
 ## 🏆丨GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yiruzu&theme=oldie&margin-w=4)
