@@ -16,7 +16,4 @@
   <br/>
 </p>
 
-## 🏆丨GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yiruzu&theme=oldie&margin-w=4)
-
 [![](https://visitcount.itsvg.in/api?id=yiruzu&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
