@@ -14,6 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yiruzu&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆丨GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yiruzu&theme=oldie)
+![](https://github-profile-trophy.vercel.app/?username=yiruzu&theme=oldie&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=yiruzu&icon=5&color=1)](https://visitcount.itsvg.in)
