@@ -6,7 +6,7 @@
 [![Discord](https://i.imgur.com/j9Ucn6P.png)](https://discord.com) [![YouTube](https://i.imgur.com/jBeMj7a.png)](https://youtube.com/@yiruzu) [![TikTok](https://i.imgur.com/wiYpJrM.png)](https://tiktok.com/@yiruzu) [![Twitter](https://i.imgur.com/NrfB4Fq.png)](https://twitter.com/yiruzu7)
 
 ## ` 💻 `丨Tech Stack
-![Lua](https://i.imgur.com/jmbaCec.png) ![Figma](https://i.imgur.com/I2NEgO7.png) ![CSS](https://i.imgur.com/prPZyrS.png) ![HTML](https://i.imgur.com/mPxe5lU.png) ![JavaScript](https://i.imgur.com/BYbFOle.png)
+[![Lua](https://i.imgur.com/jmbaCec.png)](https://www.lua.org/) [![Figma](https://i.imgur.com/I2NEgO7.png)](https://www.figma.com/) [![CSS](https://i.imgur.com/prPZyrS.png)](https://github.com/yiruzu) [![HTML](https://i.imgur.com/mPxe5lU.png)](https://github.com/yiruzu) [![JavaScript](https://i.imgur.com/BYbFOle.png)](https://github.com/yiruzu)
  
 ## ` 📊 `丨GitHub Stats
 <p>
