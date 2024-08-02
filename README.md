@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/pTGIim6.png)
+[![Banner](https://i.imgur.com/pTGIim6.png)](https://github.com/yiruzu)
 ## ` ☁️ `丨About Me
 🛠️・Currently Working On FiveM Projects<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
 
@@ -16,4 +16,4 @@
   <br/>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=yiruzu&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/yiruzu)
+[![VisitCount](https://visitcount.itsvg.in/api?id=yiruzu&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/yiruzu)
