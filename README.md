@@ -1,6 +1,6 @@
-[![Banner](https://i.imgur.com/pTGIim6.png)](https://github.com/yiruzu)
+[![Banner](https://i.imgur.com/pTGIim6.png)](https://discord.gg/jAnEnyGBef)
 ## ` ☁️ `丨About Me
-🛠️・Currently Working On FiveM Projects<br>💡・Learning LUA, CSS, HTML & JS<br>✅・A Professional Skid
+🛠️・Currently Working On FiveM Projects<br>💡・Learning LUA, CSS, HTML, JS & Vue<br>✅・A Professional Skid
 
 ## ` 🌐 `丨Socials
 [![Discord](https://i.imgur.com/j9Ucn6P.png)](https://discord.gg/6gUDP72sC7) [![YouTube](https://i.imgur.com/jBeMj7a.png)](https://youtube.com/@yiruzu) [![TikTok](https://i.imgur.com/wiYpJrM.png)](https://tiktok.com/@yiruzu) [![Twitter](https://i.imgur.com/NrfB4Fq.png)](https://twitter.com/yiruzu7)
