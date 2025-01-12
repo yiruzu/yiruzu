@@ -2,7 +2,7 @@
 
 ## `☁️`丨About Me
 
-🛠️・Currently Working On [Cloud Resources](https://github.com/Cloud-Resources)<br>💡・Learning LUA, Vue, TS, JS, HTML, SCSS & CSS<br>✅・A Professional Skid
+🛠️・Currently Working On [Cloud Resources](https://github.com/cloud-resources)<br>💡・Learning LUA, Vue, TS, JS, HTML, SCSS & CSS<br>✅・A Professional Skid
 
 ## `🌐`丨Socials
 
